@@ -1,2 +1,7 @@
-# csi_703_final
-GMU CSI 703
+# CSI 703 Final Notebook(s)
+
+The final notebook is broken into two groups, based on the type of assignment.  Initially, the notebook started with a dataset focused on natural language processing (NLP) from a set of well known books consisting of To Kill a Mockingbird, Les Miserables, and Pride and Prejudice.  However, as the focus shifted to developing a variety of quantitative visualizations from the forest fires dataset, there was significant advantages to continue using this dataset.  As such, the focus shifted to forest fires, which meant a new notebook was established.  The initial and final assignments focused on NLP with visualizations, while the intermediate notebooks focused on the types of visualizations commensurate with assignments between Weeks 5 through 11 using the forest fire dataset.
+
+- assignments_books.ipynb: This notebook focuses on NLP techniques from books and covers assignments from Weeks 3, 11, and 12.
+- assignments_forest_fires.ipynb: This notebook focuses on quantitative visualizations for the forest fire dataset and covers assignments from Weeks 5, 6, 8, 9, and 10.
+- environment.yml: This file provides the environment configuration to run the notebooks; for example, `conda env create -f environment.yml`.
